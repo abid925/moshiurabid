@@ -1,0 +1,6 @@
+{
+  "name": "Moshiur - Product Designer Portfolio",
+  "description": "Next-generation 2030 portfolio for Moshiur, Graphics Designer and Commercial Product Photographer based in Bangladesh with interactive showcases, services, and live project estimator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
